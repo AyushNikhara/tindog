@@ -1,1 +1,6 @@
-# tindog
+![image](https://github.com/AyushNikhara/tindog/assets/103193625/755a99a2-1e7f-4c22-b7e3-1f2e5ac2f2cc)
+![image](https://github.com/AyushNikhara/tindog/assets/103193625/82086b1d-195c-4efb-9d94-fc26e84a479a)
+![image](https://github.com/AyushNikhara/tindog/assets/103193625/902d6e89-5994-4d3e-94b5-55476943fb95)
+![image](https://github.com/AyushNikhara/tindog/assets/103193625/07252458-e769-40fb-83a7-288bc2ebf4e0)
+![image](https://github.com/AyushNikhara/tindog/assets/103193625/40423717-b900-40e1-a82c-5a84c5b88f40)
+![image](https://github.com/AyushNikhara/tindog/assets/103193625/7da114dd-b9e4-49ee-9de2-f4c57befef09)
